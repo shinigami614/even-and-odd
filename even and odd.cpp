@@ -1,3 +1,6 @@
+//samuel daniel
+//reg:BCS-03-0118/2025
+
 #include <iostream>
 using namespace std;
 void number (int a){
@@ -10,4 +13,5 @@ void number (int a){
 int main(){
     number(3);
     return 0;
+
 }
